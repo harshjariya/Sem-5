@@ -1,0 +1,5 @@
+nominal sex,pclass,Ticket,cabin,embarked 
+numeric Age,Fare,Sibsp
+ordinal passengerId
+binary Servived
+

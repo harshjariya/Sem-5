@@ -1,0 +1,29 @@
+
+import numpy as np
+
+np.arange(start,end)
+
+arr.ndim-dimention return kare array na
+
+arr.dtype
+
+arr.reshape(4,25)-for 2d array
+
+np.arange(12).reshape(3,4)
+
+np.linspace(1,5,10)
+
+np.random.ran(3)
+
+
+np.random.ranint(1,100,10)
+
+arr3.min()
+
+arr3.max()
+
+arr3.argmax()
+
+arr3.argmin()
+
+arr[start:end:stop]
