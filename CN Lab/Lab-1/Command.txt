@@ -1,0 +1,10 @@
+ipconfig
+ping
+getmac
+hostname
+systeminfo
+nslookup     dns- domain name sysrtem
+tracert
+netstat
+pathping
+arp

@@ -1,0 +1,19 @@
+command:
+	
+	  en or enable
+	  configure terminal
+command:
+	
+	  vlan 10
+	  name vlan10
+	  exit
+command:
+
+	  vlan 20
+	  name vlan20
+	  exit
+          
+          interface range fa0/1
+	  switchport mode access
+	  switchport access vlan10
+	  exit
